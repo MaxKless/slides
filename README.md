@@ -3,6 +3,7 @@
 ## JNation 2024
 
 - [Slides](./06-24-jnation.pdf)
+- [Recording](https://www.youtube.com/live/kQqg2Z7AJCI?t=22001)
 
 ## FrankenJS 2023
 
