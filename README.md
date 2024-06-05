@@ -2,7 +2,7 @@
 
 ## JNation 2024
 
-- [Slides](./06-26-jnation.pdf)
+- [Slides](./06-24-jnation.pdf)
 
 ## FrankenJS 2023
 
