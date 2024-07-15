@@ -1,5 +1,10 @@
 # slides
 
+## React Norway 2024
+
+- [Slides](./06-24-jnation.pdf)
+- [Recording](https://www.youtube.com/live/w5WhcX0Q5NU?si=TaMDJZrO2E_NzC1Z&t=4447)
+
 ## JNation 2024
 
 - [Slides](./06-24-jnation.pdf)
