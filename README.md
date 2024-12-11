@@ -2,7 +2,7 @@
 
 ## JSNation NY 2024
 
-- [Slides](./12-11-jsnation-ny.pdf)
+- [Slides](./06-24-jnation.pdf)
 - [Recording](https://gitnation.com/contents/monorepos-and-spaceships-navigating-successfully-through-code-and-cosmos)
 
 ## React Norway 2024
