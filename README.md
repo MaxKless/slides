@@ -5,6 +5,10 @@
 - [Slides](./06-24-jnation.pdf)
 - [Recording](https://gitnation.com/contents/monorepos-and-spaceships-navigating-successfully-through-code-and-cosmos)
 
+## SquiggleConf 2024
+
+- [Code](https://github.com/MaxKless/the-coven)
+
 ## React Norway 2024
 
 - [Slides](./06-24-jnation.pdf)
